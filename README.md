@@ -1,3 +1,6 @@
+Too list feita em react com diversas opções sendo uma delas a edição e remoção de tarefas já criadas.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
